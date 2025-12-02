@@ -6,7 +6,9 @@ void main() {
       home: Scaffold(
         appBar: AppBar(
           title: Text('I am poor'),
+          backgroundColor: Colors.blue,
         ),
+        backgroundColor: Colors.lightBlueAccent,
       ),
     ),
   );
